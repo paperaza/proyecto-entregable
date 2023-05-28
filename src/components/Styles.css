@@ -1,0 +1,36 @@
+#divCard {
+    width: 18rem;
+    display: inline-block;
+}
+
+#divHeader {
+    margin-top: 0px;
+    background-image: url("../img/fondo-madera-negro.jpg");
+    color: white;
+}
+
+#textForm {
+    color: white;
+    font-size: 40px;
+    font-family: 'Monoton';
+    margin-bottom: 0;
+}
+
+#textuyc {
+    color: white;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 0;
+}
+
+#Button {
+    margin-left: 30%;
+}
+
+#salir{
+    background-color: beige;
+    color: black;
+    padding: 15px 25px;
+    text-decoration: none;
+}
+
